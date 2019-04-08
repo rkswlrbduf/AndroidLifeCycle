@@ -13,6 +13,6 @@ Task는 스택의 형식을 띄는데 먼저 생성된 Activity의 순서대로 
 + onRestart
 + onDestroy  
 ***
-
-##### LifeCycle
+  
+### LifeCycle
 ![lifecycle](./LifeCycle.png)
